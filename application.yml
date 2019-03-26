@@ -1,0 +1,11 @@
+info:
+  description: Steel Toe and .net POC
+  url: https://git-cto.mindtree.com/M1008060/config-repo
+  app:
+    connectionstring: "Data Source=localhost\\sqlexpress;Initial Catalog=School;Integrated Security=True"
+    apikey: 1
+    logLevel: error
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
