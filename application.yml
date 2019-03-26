@@ -1,7 +1,8 @@
+
 info:
   description: Steel Toe and .net POC
   url: https://git-cto.mindtree.com/M1008060/config-repo
-  app:
+  applicationSettings:
     connectionstring: "Data Source=localhost\\sqlexpress;Initial Catalog=School;Integrated Security=True"
     apikey: 1
     logLevel: error
