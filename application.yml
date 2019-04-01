@@ -1,6 +1,10 @@
 info:
-  description: SchoolApp POC for Steeltoe and netcore
-  url: https://github.com/spring-cloud-samples
+  description: Steel Toe and .net POC
+  url: https://github.com/KumarShanmugham/config-repo
+  applicationSettings:
+    connectionstring: "Data Source=localhost\\sqlexpress;Initial Catalog=School;Integrated Security=True"
+    apikey: 1
+    logLevel: error
 eureka:
   client:
     serviceUrl:
