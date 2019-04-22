@@ -2,10 +2,10 @@ info:
   description: Steel Toe and .net POC
   url: https://github.com/KumarShanmugham/config-repo
   applicationSettings:
-    connectionstring: "Data Source=localhost\\sqlexpress;Initial Catalog=School;Integrated Security=True"
+    connectionstring: "Data Source=steeltoe-demo.database.windows.net;Initial Catalog=School;UserId=appuser;Password=Welcome12345$"
     apikey: 1
     logLevel: error
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:6001/eureka/      
+      defaultZone: http://104.211.207.198:443/eureka/
