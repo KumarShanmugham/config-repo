@@ -2,7 +2,7 @@ info:
   description: Steel Toe and .net POC
   url: https://github.com/KumarShanmugham/config-repo
   applicationSettings:
-    connectionstring: "Data Source=steeltoe-demo.database.windows.net;Initial Catalog=School;UserId=appuser;Password=Welcome12345$"
+    connectionstring: "Data Source=steeltoe-demo.database.windows.net;Initial Catalog=School;User Id=appuser;Password=Welcome12345$"
     apikey: 1
     logLevel: error
 eureka:
