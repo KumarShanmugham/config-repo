@@ -2,6 +2,6 @@ info:
   description: SchoolApp
   url: https://github.com/KumarShanmugham/config-repo
   applicationSettings:
-    apiUrl: "http://104.42.211.114:5000/api"
+    apiUrl: "http://104.42.211.114:5000/api/"
     apikey: 1
     
